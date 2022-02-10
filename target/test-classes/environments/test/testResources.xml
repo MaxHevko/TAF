@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TESTDATA env="test">
+    <BASEURLS>
+        <BaseUrl>https://auto.ria.com/</BaseUrl>
+    </BASEURLS>
+    <LOGIN>
+        <email></email>
+        <password></password>
+    </LOGIN>
+</TESTDATA>

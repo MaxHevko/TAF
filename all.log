@@ -1,0 +1,1 @@
+2022-02-10 21:50:41.444 [pool-1-thread-1] DEBUG TestProject.pages_with_steps_definitions.BasePage - Element has been found after: `20` milliseconds with selector: 'By.xpath: //*[contains(@href, 'cabinet')]/span'

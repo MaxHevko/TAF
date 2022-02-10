@@ -1,0 +1,22 @@
+<story path="smoke/Login.story" title="Credco Logout story">
+<meta>
+<property keyword="@" name="Login" value=""/>
+<property keyword="@" name="smoke" value=""/>
+</meta>
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">check logout fuctionality of AutoRia.com</inOrderTo>
+  <asA keyword="As a">n end user</asA>
+  <iWantTo keyword="I want to">log-out from AutoRIA.com
+
+Meta:
+@Login
+@smoke</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Smoke --&gt; User&apos;s log-out from AutoRIA as an &quot;End user&quot;">
+<meta>
+<property keyword="@" name="test" value=""/>
+</meta>
+<step outcome="successful">Given The &apos;AutoRIA Home Page&apos; page is opened</step>
+<step outcome="successful">When I click on the &apos;Login&apos; button</step>
+</scenario>
+</story>

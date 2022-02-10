@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Feb 10 21:50:48 EET 2022
+smoke/Login.story=49000
+threads=1
+total=49000
+threadAverage=49000
